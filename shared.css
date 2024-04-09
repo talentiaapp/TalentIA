@@ -42,6 +42,12 @@ nav a:hover {
     body{
         font-family: 'Prime-Regular';
     }
+
+    button{
+        background-color: #f2f2f2;
+        border-radius: 10px;
+        border-style: solid;
+    }
     
     .titulo{
         font-size: 80px;
@@ -88,7 +94,7 @@ nav a:hover {
     .contenedor1 {
         flex: 1;
         width: 50%;
-        padding-top: 50px;
+        padding-top: 70px;
       }
 
     .contenedor2 {
@@ -137,7 +143,12 @@ nav a:hover {
         padding-right: 20px;
         padding-left: 20px;
     }
-    
+
+    button{
+        background-color: #f2f2f2;
+        border-radius: 10px;
+        border-style: solid;
+    }
     
     .medio{
         justify-content: center;
